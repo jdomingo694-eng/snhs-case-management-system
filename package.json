@@ -1,0 +1,26 @@
+{
+  "name": "snhs-case-management-system",
+  "version": "1.0.0",
+  "description": "Subic National High School - Case Management System",
+  "main": "index.html",
+  "scripts": {
+    "dev": "firebase serve",
+    "build": "echo 'No build step required'",
+    "start": "firebase serve",
+    "deploy": "firebase deploy"
+  },
+  "dependencies": {
+    "firebase": "^10.7.1"
+  },
+  "devDependencies": {
+    "firebase-tools": "^13.0.0"
+  },
+  "keywords": [
+    "case-management",
+    "school",
+    "subic-national-high-school",
+    "guidance-office"
+  ],
+  "author": "Subic National High School",
+  "license": "MIT"
+}
